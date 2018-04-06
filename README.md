@@ -11,3 +11,5 @@ Click on a gif to watch it play. Click it again to stop playing.
 Add your favorite comedians' gifs and watch them as well!
 
 No kidding!
+
+<img src="assets/images/screenshot.JPG" alt="alt text" width="500">
