@@ -1,6 +1,9 @@
 .btn {
 	margin: 8px 5px;
 }
+.sidebar .btn {
+	display: block;
+}
 .gifdiv {
 	float: left;
 	margin: 10px 12px;
