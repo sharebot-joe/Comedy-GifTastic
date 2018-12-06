@@ -23,6 +23,7 @@ $(document).ready(function() {
 	// 	When the user clicks on a button, the page should grab 10 static, non-animated gif images from the GIPHY API and place them on the page.
 	$(document).on('click', '.buttons .btn', function() {
     var fired_button = $(this).text();
+		console.log('this.text =====>', fired_button)
    
     var string = encodeURIComponent(fired_button);
    
