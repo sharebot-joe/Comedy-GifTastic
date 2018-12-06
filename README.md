@@ -1,17 +1,15 @@
 # Comedy GifTastic!
 
-**All your favorite comedy gifs in one web app!**
+**View all your favorite comedy gifs in one app!**
 
-[Project Link](https://sharebot-joe.github.io/Comedy-GifTastic/ "Comedy GifTastic!")
+[Link](https://sharebot-joe.github.io/Comedy-GifTastic/ "Comedy GifTastic!")
 
-Click the Github Pages link above to begin.
+Click the link above to begin.
 
-Once the app loads, click the buttons at the top of the page to see a selection of comedy gifs. 
+Once the app loads, click the buttons to see a selection of comedy gifs. 
 
-Click on a gif to watch it play. Click it again to stop playing.
+Click on a gif to watch it play. Click it again to stop.
 
-Add your favorite comedians' gifs and watch them as well!
-
-No kidding!
+Search for more clips by using the search bar.
 
 <img src="assets/images/screenshot.JPG" alt="alt text" width="500">
